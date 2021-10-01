@@ -1,0 +1,2 @@
+# ngnixdemo
+env setup
